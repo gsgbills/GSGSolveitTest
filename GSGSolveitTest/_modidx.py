@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://gsgbills.github.io',
                 'git_url': 'https://github.com/gsgbills/GSGSolveitTest',
                 'lib_path': 'GSGSolveitTest'},
-  'syms': {'GSGSolveitTest.core': {'GSGSolveitTest.core.foo': ('core.html#foo', 'GSGSolveitTest/core.py')}}}
+  'syms': { 'GSGSolveitTest.core': {'GSGSolveitTest.core.foo': ('core.html#foo', 'GSGSolveitTest/core.py')},
+            'GSGSolveitTest.core2': {'GSGSolveitTest.core2.foo': ('core.html#foo', 'GSGSolveitTest/core2.py')}}}
