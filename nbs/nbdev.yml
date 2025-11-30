@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "GSGSolveitTest"
+  site-url: "https://gsgbills.github.io/GSGSolveitTest"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/gsgbills/GSGSolveitTest"
